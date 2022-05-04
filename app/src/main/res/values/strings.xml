@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trapezoid</string>
+    <string name="a">Основание а:</string>
+    <string name="alpha">Острый угол а:</string>
+    <string name="b">Основание b:</string>
+    <string name="save">Вычислить</string>
+    <string name="perimeter">Периметр</string>
+    <string name="square">Площадь</string>
+</resources>
